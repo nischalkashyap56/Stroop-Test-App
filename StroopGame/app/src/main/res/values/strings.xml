@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Stroop Game</string>
+    <string name="yellow">YEllOW</string>
+    <string name="green">green</string>
+    <string name="black">black</string>
+    <string name="red">red</string>
+    <string name="orange">orange</string>
+    <string name="blue">blue</string>
 </resources>
