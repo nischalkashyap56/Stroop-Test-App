@@ -1,5 +1,5 @@
 # Hackathon
-A Stroop Test Android Application built using Java and Android Studio that evaluates cognitive control and processing speed while providing a user-friendly interface and detailed performance analytics.
+A Stroop Test Android application built using Java and Android Studio that evaluates cognitive control and processing speed while providing a user-friendly interface and detailed performance analytics.
 
 ## Installation
 
