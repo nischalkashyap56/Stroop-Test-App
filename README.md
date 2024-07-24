@@ -6,7 +6,7 @@ A Stroop Test Android Application built using Java and Android Studio that evalu
 Clone this repository to your system with the following command in your Git GUI:
 
 ```
-git clone https://github.com/nischalkashyap56/Hackathon.git
+git clone https://github.com/nischalkashyap56/Stroop-Test-App.git
 ```
 
 ## Functionalities
